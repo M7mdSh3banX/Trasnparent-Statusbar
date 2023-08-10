@@ -21,10 +21,5 @@
 ## Support
   - If you encounter any issues while using this app, please create an issue on the [issues](https://github.com/M7mdSh3banX/Trasnparent-Statusbar/issues) page.
 
-## Contributors
-<a href="https://github.com/M7mdSh3banX/Honey-Weather/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=M7mdSh3banX/Honey-Weather" />
-</a>
-
 ## License
   - This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/M7mdSh3banX/Trasnparent-Statusbar/blob/master/LICENSE) file for details.
